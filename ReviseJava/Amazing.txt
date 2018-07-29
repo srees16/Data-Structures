@@ -1,0 +1,1 @@
+Exception can occur at runtime (known as runtime exceptions) as well as at compile-time (known Compile-time exceptions).

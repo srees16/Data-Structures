@@ -1,0 +1,2 @@
+Reasons for Exceptions
+There can be several reasons for an exception. For example, following situations can cause an exception
