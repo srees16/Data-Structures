@@ -1,2 +1,2 @@
 # Data-Structures
-All the Java Data Structures that I've worked on so far
+Data Structures contained in the repository include Stack, Queue, LinkedList, DoublyLinkedList, Tree, Heap, HashMap, Trie and Graph for both integer and object data types.
