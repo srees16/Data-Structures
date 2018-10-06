@@ -1,3 +1,0 @@
-Hi, these are testing lines!
-And a second line, just adding to see wats it wil be like
-So for every line i add separate, a new object for PrintWriter should be created
