@@ -1,4 +1,0 @@
-CLassNotFound Exception
-DivideByZero exception
-NullPointer Exception
-Arithmetic Exception
