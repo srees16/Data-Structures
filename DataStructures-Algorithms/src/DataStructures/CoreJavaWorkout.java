@@ -624,6 +624,7 @@ public class CoreJavaWorkout {
 		}
 	}
 	
+	
 	//Compute the average value of an array of integers except the largest and smallest values
 	
 	
