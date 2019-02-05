@@ -644,10 +644,7 @@ public class CoreJavaWorkout {
 	Sample array: [49, 1, 3, 200, 2, 4, 70, 5]. The longest consecutive elements sequence is [1, 2, 3, 4, 5], therefore the program will return its length 5.*/
 
 	
-	//I'm just testing it now again!
-	
-	
-	//The great Main method!
+	//Main method!
 	public static void main(String[] args) {
 		/*
 		double array[] = {34,25,22,66,26,78};
